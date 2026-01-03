@@ -1,2 +1,2 @@
-# Resume-Screener
-A HR Tech tool, which uses NLP, machine learning models to analyze the recommended field.
+# Resume-Screening-App
+Resume Screening App With Python and Machine Learning 
